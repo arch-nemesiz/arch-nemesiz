@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ I’m currently working on<br>Enhancing my skills in AI/ML, Firebase, and building real-time applications.<br><br>🤝 I’m looking to collaborate on<br>Projects involving mobile app development, web development, or innovative solutions that create a positive impact.<br><br>🙌 I’m looking for help with<br>Advanced Flutter techniques, state management, and implementing ML/AI models in mobile applications.<br><br>⚡ Fun fact<br>I built a tool to detect emotions in autistic children using CNN models and real-time image analysis!<br><br>Let’s connect and build something meaningful together! 😊
+🛠️ I’m currently working on<br>Enhancing my expertise in Artificial Intelligence, Machine Learning, and building real-time applications with practical use cases.<br><br>🤝 I’m looking to collaborate on<br>Projects involving web development, AI/ML, or innovative tech solutions that create a positive social impact.<br><br>🙌 I’m looking for help with<br>Implementing ML/AI models in real-world applications and exploring advanced deep learning techniques.<br><br>⚡ Fun fact<br>I built a real-time emotion detection tool for autistic children using CNNs and image analysis, designed to assist with emotional recognition.<br><br>Let’s connect and build something meaningful together! 😊
 
 
 ## 🌐 Socials:
